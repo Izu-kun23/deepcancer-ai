@@ -1,0 +1,15 @@
+torch>=2.6,<3
+torchvision>=0.21,<1
+numpy>=2,<3
+pandas>=2.2,<3
+opencv-python-headless>=4.10,<5
+matplotlib>=3.9,<4
+scikit-learn>=1.6,<2
+Pillow>=11,<13
+fastapi>=0.115,<1
+uvicorn>=0.34,<1
+python-multipart>=0.0.20
+sqlalchemy>=2,<3
+psycopg[binary]>=3.2,<4
+httpx>=0.28,<1
+pytest>=8,<10
